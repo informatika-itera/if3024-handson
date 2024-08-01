@@ -1,4 +1,4 @@
-# Hands-on Materials for IF4021
+# Hands-on Materials for IF3024
 
 This repository contains hands-on materials for the [IF3024](https://mctm.web.id/course/if3024) course at [Informatics Department](https://if.itera.ac.id), Institut Teknologi Suamtera ([ITERA](https://itera.ac.id)).
 
