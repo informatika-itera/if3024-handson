@@ -6,8 +6,8 @@ This repository contains hands-on materials for the [IF3024](https://mctm.web.id
 ## Table of Contents
 | No. | Topic        | Description                                                                          | Notebook                                                                                                         |
 | --- | ------------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| 1   | Basic Signal | An introduction about signal and its property                                        | [1_basic_signal.ipynb](https://github.com/informatika-itera/if4021-handson/blob/main/1_working_with_audio.ipynb) |
-| 2   | Sampling     | A demonstration about sampling theory, signal reconstruction, Interpolating, and ADC | [2_asmpling.ipynb](                                                                                              |
+| 1   | Basic Signal | An introduction about signal and its property                                        | [1_basic_signal.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/1_basic_signal.ipynb) |
+| 2   | Sampling     | A demonstration about sampling theory, signal reconstruction, Interpolating, and ADC | [2_asmpling.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/2_sampling.ipynb)                                                                                              |
 |     |              |                                                                                      |                                                                                                                  |
 
 
