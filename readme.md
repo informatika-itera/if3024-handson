@@ -4,11 +4,14 @@ This repository contains hands-on materials for the [IF3024](https://mctm.web.id
 
 
 ## Table of Contents
-| No. | Topic        | Description                                                                          | Notebook                                                                                                         |
-| --- | ------------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| 1   | Basic Signal | An introduction about signal and its property                                        | [1_basic_signal.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/1_basic_signal.ipynb) |
-| 2   | Sampling     | A demonstration about sampling theory, signal reconstruction, Interpolating, and ADC | [2_asmpling.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/2_sampling.ipynb)                                                                                              |
-|     |              |                                                                                      |                                                                                                                  |
+| No. | Topic            | Description                                                                          | Notebook                                                                                                             |
+| --- | ---------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| 0   | Complex Number   | An explanation the relationship between complex number and signals                   | [0_complex_number.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/0_complex_number.ipynb)       |
+| 1   | Basic Signal     | An introduction about signal and its property                                        | [1_basic_signal.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/1_basic_signal.ipynb)           |
+| 2   | Real life signal | To give an overview about how the real-life signals looks like                       | [2_real_life_signals.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/2_real_life_signals.ipynb) |
+| 3   | Sampling         | A demonstration about sampling theory, signal reconstruction, Interpolating, and ADC | [3_sampling.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/3_sampling.ipynb)                   |
+| 4   | Basic Filter     | A short demonstration about low-pass, high-pass, and band-pass filter                | [4_basic_filter.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/4_basic_filter.ipynb)           |
+|     |                  |                                                                                      |                                                                                                                      |
 
 
 
