@@ -2,16 +2,15 @@
 
 This repository contains hands-on materials for the [IF3024](https://mctm.web.id/course/if3024) course at [Informatics Department](https://if.itera.ac.id), Institut Teknologi Suamtera ([ITERA](https://itera.ac.id)).
 
-
 ## Table of Contents
-| No. | Topic               | Description                                                        | Notebook                                                                                                                 |
-| --- | ------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 0   | Working with Signal | An explanation the relationship between complex number and signals | [0_working_with_signal.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/0_working_with_signal.ipynb) |
-|     |                     |                                                                    |                                                                                                                          |
 
-
+| No. | Topic                | Description                                                                                                | Notebook                                                                                                                 |
+| --- | -------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 0   | Making Euler Signals | An explanation the relationship between complex number and signals along with their python Implementations | [0_working_with_signal.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/0_working_with_signal.ipynb) |
+|     |                      |                                                                                                            |                                                                                                                          |
 
 ## Copyrights
+
 ```
 Copyright 2024, Martin Clinton Tosima Manullang
 
