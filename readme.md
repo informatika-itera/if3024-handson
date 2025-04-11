@@ -4,10 +4,10 @@ This repository contains hands-on materials for the [IF3024](https://mctm.web.id
 
 ## Table of Contents
 
-| No. | Topic                | Description                                                                                                    | Notebook                                                                                           |
-| --- | -------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 0   | Making Euler Signals | An explanation of the relationship between complex number and signals, along with their python Implementations | [notes_ho1.ipynb](https://github.com/informatika-itera/if3024-handson/tree/main/notebooks/modul_1) |
-|     |                      |                                                                                                                |                                                                                                    |
+| No. | Topic                           | Description                                                                                                    | Notebook                                                                                                          |
+| --- | ------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 0   | Making Euler Signals            | An explanation of the relationship between complex number and signals, along with their python Implementations | [notes_ho1.ipynb](https://github.com/informatika-itera/if3024-handson/tree/main/notebooks/modul_1)                |
+| 1   | Sampling and Simulating Signals | An explanation on sampling signals, along with simulating real life signals (ECG, EEG, and etc)                | [notes_ho2.ipynb](https://github.com/informatika-itera/if3024-handson/blob/main/2025-notebooks/4_hands-on2.ipynb) |
 
 ## Copyrights
 
